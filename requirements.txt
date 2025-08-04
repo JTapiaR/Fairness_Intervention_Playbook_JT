@@ -1,5 +1,5 @@
-streamlit
-plotly
-numpy
-pandas
-scipy
+streamlit==1.28.0
+plotly==5.17.0
+numpy>=1.25.0  # Usando la versión corregida de la conversación anterior
+pandas>=2.0.0   # Usando la versión corregida de la conversación anterior
+scipy  
